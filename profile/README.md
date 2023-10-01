@@ -4,9 +4,9 @@
 
 
 ## Участники:
-- Адриан Макриденко @lyaguxafrog
-- Антон Архипов @Vard05
-- Артемий Мятеж @Ghost-ate-your-brains
+- Адриан Макриденко [@lyaguxafrog](https://github.com/lyaguxafrog)
+- Антон Архипов [@Vard05](https://github.com/vard05)
+- Артемий Мятеж [@Ghost-ate-your-brains](https://github.com/Ghost-ate-your-brains)
 
 <details align="center">
 
