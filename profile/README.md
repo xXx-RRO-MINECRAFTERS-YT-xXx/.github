@@ -7,6 +7,7 @@
 - Адриан Макриденко [@lyaguxafrog](https://github.com/lyaguxafrog)
 - Антон Архипов [@Vard05](https://github.com/vard05)
 - Артемий Матяж [@Ghost-ate-your-brains](https://github.com/Ghost-ate-your-brains)
+- Акаемов Михаил [@talkingmachine](https://github.com/talkingmachine)
 
 <details>
 
